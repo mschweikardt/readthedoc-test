@@ -7,6 +7,7 @@ My repo has a GitHub Action set up to build the documentation on any push to the
 
 Reference for simple Sphinx with sphinx-apidoc https://shunsvineyard.info/2019/09/19/use-sphinx-for-python-documentation
 Using this auto generation: https://sphinx-autoapi.readthedocs.io/en/latest/index.html
+
 ```
 pip install sphinx-autoapi
 ```

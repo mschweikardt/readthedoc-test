@@ -5,3 +5,4 @@ How to contribute
 * Add functions to the existing modules
 * Add an example via a notebook
 * Look at another notebook to see example
+* Don't be stupid

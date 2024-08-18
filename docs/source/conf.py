@@ -38,6 +38,7 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
@@ -51,7 +52,7 @@ epub_show_urls = 'footnote'
 
 html_context = {
     "display_github": True, # Integrate GitHub
-    "github_repo": "eeholmes/readthedoc-test", # Repo name
+    "github_repo": "mschweikardt/readthedoc-test", # Repo name
     "github_version": "main", # Version
     "conf_py_path": "docs/source/", # Path in the checkout to the docs root
 }
@@ -67,7 +68,7 @@ html_show_copyright = True
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-repository_url = f"https://github.com/ICESAT-2HackWeek/coastal_topobathy"
+repository_url = f"https://github.com/mschweikardt/readthedoc-test"
 html_context = {
     "menu_links": [
         (

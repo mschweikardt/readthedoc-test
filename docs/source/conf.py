@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath('../../src'))
 # -- Project information
 
 project = 'Coastal'
-copyright = '2021'
+copyright = '2024'
 author = 'Multiple'
 
 release = '0.1'
